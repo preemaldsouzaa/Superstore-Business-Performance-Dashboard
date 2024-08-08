@@ -9,6 +9,9 @@ The **Superstore Business Performance Dashboard** is a Tableau project that anal
 ## Link to the Project
 [View the Tableau Dashboard](https://public.tableau.com/app/profile/preemal.dsouza3738/viz/SuperStoreTableauProject_17231179217970/Story1?publish=yes)
 
+## Embedded Dashboard
+<iframe src="https://public.tableau.com/views/SuperStoreTableauProject_17231179217970/Story1?:showVizHome=no&:embed=true" width="100%" height="800"></iframe>
+
 ## Dashboards
 
 1. **Order Summary Analysis**
