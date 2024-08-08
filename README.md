@@ -1,4 +1,5 @@
 # Superstore Business Performance Dashboard
+![Store]([URL_of_the_image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dstore%2Binterior%2Bcartoon&psig=AOvVaw18NBujr8uW2euMOQPKgilo&ust=1723209371218000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCT_qS95YcDFQAAAAAdAAAAABAE))
 
 ## Overview
 The **Superstore Business Performance Dashboard** is a Tableau project that analyzes key business metrics using the Superstore dataset. It consists of three interactive dashboards:
@@ -8,9 +9,6 @@ The **Superstore Business Performance Dashboard** is a Tableau project that anal
 
 ## Link to the Project
 [View the Tableau Dashboard](https://public.tableau.com/app/profile/preemal.dsouza3738/viz/SuperStoreTableauProject_17231179217970/Story1?publish=yes)
-
-## Embedded Dashboard
-<iframe src="https://public.tableau.com/views/SuperStoreTableauProject_17231179217970/Story1?:showVizHome=no&:embed=true" width="100%" height="800"></iframe>
 
 ## Dashboards
 
